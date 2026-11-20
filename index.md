@@ -5,9 +5,6 @@ hero:
   name: Anipoex
   text: Every source, one tracker
   tagline: An AniList manga tracker that compares every source for each manga and syncs privately across iOS, Android, macOS and Windows.
-  image:
-    src: /logo.png
-    alt: Anipoex icon
   actions:
     - theme: brand
       text: Get started
@@ -36,3 +33,69 @@ features:
     title: Native on each platform
     details: SwiftUI on iOS, Jetpack Compose on Android, and desktop apps for macOS and Windows.
 ---
+
+<section class="screens-section">
+  <h2>On your desktop</h2>
+  <p>A macOS and Windows app that runs the same extensions.</p>
+  <div class="screens wide">
+    <figure>
+      <img src="/screens/desktop-home.jpg" alt="Desktop Home with continue reading, trending and genres" loading="lazy">
+      <figcaption>Home</figcaption>
+    </figure>
+    <figure>
+      <img src="/screens/desktop-list.jpg" alt="Desktop reading list with unread counts on each cover" loading="lazy">
+      <figcaption>Your AniList list</figcaption>
+    </figure>
+    <figure>
+      <img src="/screens/desktop-detail.jpg" alt="Desktop manga detail with chapters and progress" loading="lazy">
+      <figcaption>Manga detail</figcaption>
+    </figure>
+    <figure>
+      <img src="/screens/desktop-sources.jpg" alt="Every source compared, with chapters ahead per source" loading="lazy">
+      <figcaption>Every source compared</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="screens-section">
+  <h2>On your phone</h2>
+  <p>SwiftUI on iOS, Jetpack Compose on Android.</p>
+  <h3>iOS</h3>
+  <div class="screens">
+    <figure>
+      <img src="/screens/home.jpg" alt="iOS Home with continue reading and trending" loading="lazy">
+      <figcaption>Home</figcaption>
+    </figure>
+    <figure>
+      <img src="/screens/list.jpg" alt="iOS reading list with unread counts on each cover" loading="lazy">
+      <figcaption>Your list</figcaption>
+    </figure>
+    <figure>
+      <img src="/screens/detail.jpg" alt="iOS manga detail with progress and chapters" loading="lazy">
+      <figcaption>Manga detail</figcaption>
+    </figure>
+    <figure>
+      <img src="/screens/sources.jpg" alt="iOS sources sheet comparing every source" loading="lazy">
+      <figcaption>Every source compared</figcaption>
+    </figure>
+  </div>
+  <h3>Android</h3>
+  <div class="screens">
+    <figure>
+      <img src="/screens/android-home.jpg" alt="Android Home with continue reading and trending" loading="lazy">
+      <figcaption>Home</figcaption>
+    </figure>
+    <figure>
+      <img src="/screens/android-list.jpg" alt="Android reading list by status and genre" loading="lazy">
+      <figcaption>Your list</figcaption>
+    </figure>
+    <figure>
+      <img src="/screens/android-detail.jpg" alt="Android manga detail with progress and chapters" loading="lazy">
+      <figcaption>Manga detail</figcaption>
+    </figure>
+    <figure>
+      <img src="/screens/android-sources.jpg" alt="Android sources sheet listing every source" loading="lazy">
+      <figcaption>Every source compared</figcaption>
+    </figure>
+  </div>
+</section>
