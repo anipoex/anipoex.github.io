@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: Get started
-      link: https://github.com/anipoex/anipoex#-quick-start
+      link: https://github.com/anipoex/anipoex#-download
     - theme: alt
       text: View on GitHub
       link: https://github.com/anipoex/anipoex
